@@ -2,6 +2,10 @@
 name = "bcsh"
 version = "0.1.0"
 edition = "2024"
+description = "A command line tool to hash strings using bcrypt"
+license = "MIT"
+authors = ["Keshav Chakravarthy contact@keccak.dev"]
+repository = "https://github.com/keshav-c/bcrypt-hasher"
 
 [dependencies]
 bcrypt = "0.17.0"
